@@ -4,6 +4,8 @@
 
 ## Author
 
+Joshua Sziede
+
 ## Description
 
 Create a C# console program to work with a .CSV wine list. The program should continually run until the user decides to exit (entering a certain character on the keyboard). The program should allow the following functionality:
