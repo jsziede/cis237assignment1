@@ -55,7 +55,13 @@ Suggestion/Hints:
 * Remember to handle (gracefully) cases where the user enters something incorrectly.
 
 ## Outside Resources Used
+####https://msdn.microsoft.com/en-us/library/06tc147t.aspx?f=255&MSPPError=-2147217396
+Reminder for case syntax
+
+####http://forgetcode.com/CSharp/1027-Linear-search-programming
+Quick review of linear searching
+
+####http://stackoverflow.com/questions/2837020/open-existing-file-append-a-single-line
+Quick review of appending files although I was originally going to use a StreamWriter method
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
-
