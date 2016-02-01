@@ -65,3 +65,4 @@ Quick review of linear searching
 Quick review of appending files although I was originally going to use a StreamWriter method
 
 ## Known Problems, Issues, And/Or Errors in the Program
+Adding a new wine to the list and then searching for that wine before reloading the list in the console results in the wine not being included in a search. I tried to hotfix by adding a wineItemsProcessed++ in the block that is called when a wine is successfully added to the list but that did not work. The accumulator is probably being reset somewhere where it should not be.
